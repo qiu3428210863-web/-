@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"D:\\\\AI TVC\")",
+      "Read(//d/AI TVC/**)",
+      "Bash(ls \"d:\\\\屋弄家具\")",
+      "Read(//d/屋弄家具/**)"
+    ]
+  }
+}
