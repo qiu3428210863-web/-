@@ -1,0 +1,19 @@
+# 设计源文件
+*.fig
+# IDE配置
+.trae/
+.vscode/
+# 导出/临时图
+*.jpg
+*.png
+slices/
+# 但 images/ 下的是部署用图片，需要保留
+!images/*.jpg
+!images/*.png
+!images/*.webp
+build.js
+js/
+css/
+.figma/
+# 部署无关
+original.html
